@@ -2,9 +2,9 @@ import "../public/css/styles.css";
 import ClientLayout from "@/components/layout/ClientLayout";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Rayo - Digital Agency & Personal Portfolio React Nextjs Template",
+  title: "Gridzign",
   description:
-    "Rayo - Digital Agency & Personal Portfolio React Nextjs Template",
+    "Digtal Agency",
 };
 const setColorSchemeScript = `
 (function() {
