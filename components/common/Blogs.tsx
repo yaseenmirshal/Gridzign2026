@@ -6,10 +6,16 @@ import RevealText from "../animation/RevealText";
 import BackgroundParallax from "../animation/BackgroundParallax";
 import AnimatedButton from "../animation/AnimatedButton";
 const defaultDesc = `Inspiring ideas, creative insights, and the latest in design and tech. Fueling innovation for your digital journey.`;
+
+interface BlogsProps {
+  title?: string;
+  desc?: string;
+}
+
 export default function Blogs({
   title = "Recent insights",
   desc = defaultDesc,
-}) {
+}: BlogsProps) {
   return (
     <div className="mxd-section padding-blog">
       <div className="mxd-container grid-container">
