@@ -3,7 +3,7 @@
     "number": 50,
     "suffix": "+",
     "description": "Happy clients who\ntrust my work",
-    "image": "/img/illustrations/800x800_card-image-01.webp",
+    "image": "/img/illustrations/preview/star.webp",
 
     "imageWidth": 800,
     "imageHeight": 800,
@@ -24,7 +24,7 @@
     "number": 80,
     "suffix": "%",
     "description": "Clients come back for\na new projects",
-    "image": "/img/illustrations/800x800_card-image-02.webp",
+    "image": "/img/illustrations/preview/2phone.webp",
     "imageWidth": 800,
     "imageHeight": 800,
     "avatars": [
@@ -53,7 +53,7 @@
     "number": 5,
     "suffix": "+",
     "description": "Years of professional experience in designing digital products",
-    "image": "/img/illustrations/800x800_card-image-03.webp",
+    "image": "/img/illustrations/preview/robot.webp",
     "imageWidth": 800,
     "imageHeight": 800,
     "button": {
@@ -73,7 +73,7 @@
     "number": 70,
     "suffix": "+",
     "description": "Successfully\ncompleted projects",
-    "image": "/img/illustrations/800x800_card-image-04.webp",
+    "image": "/img/illustrations/preview/robot head.webp",
     "imageWidth": 800,
     "imageHeight": 800,
     "button": {
