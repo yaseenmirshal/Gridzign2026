@@ -2095,6 +2095,7 @@ p.t-opposite-medium a {
     color 0.3s,
     -moz-background-size 0.4s;
 }
+.mxd-footer
 .no-touch p.t-opposite-medium a:hover {
   color: var(--t-opp-bright);
   -moz-background-size:
@@ -6170,7 +6171,7 @@ form textarea:required:valid {
   background-position: left center;
   -moz-background-size: cover;
   background-size: cover;
-  background-image: url(/img/backgrounds/1440x900_cta-01.webp);
+  background-image: url(/img/backgrounds/bgmetal.webp);
 }
 @media only screen and (min-width: 1200px) {
   .mxd-promo__bg {
@@ -6323,6 +6324,7 @@ form textarea:required:valid {
   position: relative;
   width: 100%;
   max-width: 1920px;
+  margin-top: 500px;
   margin: 0 auto;
   padding-bottom: 3rem;
 }

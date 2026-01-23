@@ -2,31 +2,31 @@
   {
     "title": "Next.js & React",
     "num": "/ 01",
-    "hoverImage": "/img/illustrations/600x730_cpb-04.webp",
+    "hoverImage": "https://admin.incora.software/uploads/next_js_over_react_9a108d6bfc.png",
     "mainImage": "/img/illustrations/1200x800_cpb-04.webp"
   },
   {
     "title": "Flutter",
     "num": "/ 02",
-    "hoverImage": "/img/illustrations/600x730_cpb-01.webp",
+    "hoverImage": "https://www.daily.co/blog/content/images/2023/07/Flutter-feature.png",
     "mainImage": "/img/illustrations/1200x800_cpb-01.webp"
   },
   {
     "title": "WordPress & WooCommerce",
     "num": "/ 03",
-    "hoverImage": "/img/illustrations/600x730_cpb-03.webp",
+    "hoverImage": "https://www.cambridgenetwork.co.uk/sites/default/files/styles/article_main/public/integrating-woocommerce-with-wordpress-1024x717.jpg?itok=Ziaeu5oX",
     "mainImage": "/img/illustrations/1200x800_cpb-03.webp"
   },
   {
     "title": "Laravel & PHP",
     "num": "/ 04",
-    "hoverImage": "/img/illustrations/600x730_cpb-02.webp",
+    "hoverImage": "https://jadadigital.com/assets/img/PROGRAMMING/JADA-PHP-LARAVEL-TRAINING.png",
     "mainImage": "/img/illustrations/1200x800_cpb-02.webp"
   },
   {
     "title": "HTML, CSS & Modern Web Standards",
     "num": "/ 05",
-    "hoverImage": "/img/illustrations/600x730_cpb-05.webp",
+    "hoverImage": "https://files.selar.co/product-images/2023/products/Tetra22/html-css-crash-course-lea-selar.co-6420c0b6379b4.png",
     "mainImage": "/img/illustrations/1200x800_cpb-05.webp"
   }
 ]

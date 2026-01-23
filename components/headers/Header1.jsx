@@ -39,8 +39,8 @@ export default function Header1() {
           <AnimatedButton
             text="Purchase"
             className="btn btn-anim btn-default btn-mobile-icon btn-outline slide-right"
-            href="https://themeforest.net/user/ib-themes/portfolio"
-            target="_blank"
+            href="/"
+            
           >
             <i className="ph-bold ph-shopping-cart-simple" />
           </AnimatedButton>

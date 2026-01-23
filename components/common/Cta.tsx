@@ -6,7 +6,7 @@ import AnimatedButton from "../animation/AnimatedButton";
 
 export default function Cta() {
   return (
-    <div className="mxd-section overflow-hidden">
+    <div className="mxd-section overflow-hidden mb-100">
       <div className="mxd-container">
         {/* Block - CTA Start */}
         <div className="mxd-block">
@@ -54,7 +54,7 @@ export default function Cta() {
                 <Image
                   className="promo-image promo-image-2"
                   alt="Image"
-                  src="/img/illustrations/bg isro.webp"
+                  src="/img/illustrations/bgisro.webp"
                   width={600}
                   height={601}
                 />

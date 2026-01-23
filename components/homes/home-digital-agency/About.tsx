@@ -12,7 +12,7 @@ export default function About() {
             <div className="row gx-0">
               <div className="col-12 col-xl-5 mxd-grid-item no-margin">
                 <div className="mxd-block__name">
-                  <RevealText as="h2" className="reveal-type anim-uni-in-up">
+                  <RevealText as="h1" className="reveal-type anim-uni-in-up">
                     Company
                   </RevealText>
                 </div>

@@ -3,10 +3,10 @@ import footerNav from "@/data/footer-nav.json";
 import socials from "@/data/socials.json";
 import AnimatedButton from "../../animation/AnimatedButton";
 import SubscribeForm from "../../footers/SubscribeForm";
-
 export default function Footer2() {
   return (
-    <footer id="mxd-footer" className="mxd-footer">
+    <footer id="mxd-footer"  className="mxd-footer">
+
       {/* Footer Block - Fullwidth Text Start */}
       {/* <div className="mxd-footer__text-wrap">
         <div className="fullwidth-text__tl-trigger" />
@@ -104,11 +104,11 @@ export default function Footer2() {
       </div> */}
       {/* Footer Block - Fullwidth Text End */}
       {/* Footer Block - Info Columns Start */}
-      <div className="mxd-footer__footer-blocks">
+      <div className="mxd-footer__footer-blocks mb-50">
         {/* single column */}
         <div className="footer-blocks__column animate-card-3">
           {/* inner card */}
-          <div className="footer-blocks__card fullheight-card">
+          <div className="footer-blocks__card fullheight-card ">
             {/* footer navigation */}
             <div className="footer-blocks__nav">
               <ul className="footer-nav">
@@ -203,7 +203,7 @@ export default function Footer2() {
                 />
               </svg>
               <a href="mailto:example@example.com?subject=Message%20from%20your%20site">
-                hello@rayostudio.com
+                hello@gridzign.com
               </a>
             </p>
           </div>
@@ -231,7 +231,7 @@ export default function Footer2() {
             c0,0,1.3-0.1,1.8-0.2c1,0,4,0,4,0c0.2,0,0.4-0.2,0.4-0.4C20,9.8,19.8,9.6,19.6,9.6L19.6,9.6z"
                 />
               </svg>
-              <a href="tel:+12127089400">+1 212-708-9400</a>
+              <a href="tel:+12127089400">+971 212-708-9400</a>
             </p>
           </div>
           {/* inner card */}

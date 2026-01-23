@@ -2,9 +2,9 @@
   "blogs1": [
     {
       "id": 17,
-      "imageClass": "blog-preview-image-1",
+      "imageClass": "/img/blog/frontend.png",
       "tags": ["Concept", "Editorial"],
-      "imgSrc": "/img/blog/preview/1000x1250_prv-01.webp",
+      "imgSrc": "/img/blog/frontend.png",
       "title": {
         "before": "Frontend innovations",
         "after": " and user journeys"
@@ -12,7 +12,7 @@
     },
     {
       "id": 18,
-      "imageClass": "blog-preview-image-2",
+      "imageClass": "/img/blog/frontend.png",
       "tags": ["UI/UX", "Development"],
       "imgSrc": "/img/blog/preview/1000x1250_prv-02.webp",
       "title": {

@@ -17,9 +17,15 @@
  * ------------------------------------------------
  * Table of Contents End
  * ------------------------------------------------ */
+  
+ @import url("./plugins.min.css");
+ @import url("./main.min.css");
+ 
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
 
-@import url("./plugins.min.css");
-@import url("./main.min.css");
+
 html {
   scroll-behavior: smooth;
 }
