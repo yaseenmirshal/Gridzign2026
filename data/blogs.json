@@ -9,10 +9,12 @@
         "before": "Frontend innovations",
         "after": " and user journeys"
       }
+
+      
     },
     {
       "id": 18,
-      "imageClass": "/img/blog/frontend.png",
+      "imageClass": "blog-preview-image-2",
       "tags": ["UI/UX", "Development"],
       "imgSrc": "/img/blog/preview/1000x1250_prv-02.webp",
       "title": {

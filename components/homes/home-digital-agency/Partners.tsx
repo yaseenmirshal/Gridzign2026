@@ -15,7 +15,7 @@ export default function Partners() {
                     <div className="mxd-partners-cards__logo">
                       <Image
                         alt="Partner Logo"
-                        src="/img/brands/mozilla.svg"
+                        src="/img/brands/client logos/8.png"
                         width={984}
                         height={235}
                       />
@@ -28,7 +28,7 @@ export default function Partners() {
                     <div className="mxd-partners-cards__logo">
                       <Image
                         alt="Partner Logo"
-                        src="/img/brands/envato.svg"
+                        src="/img/brands/client logos/7.png"
                         width={700}
                         height={169}
                       />
@@ -41,7 +41,7 @@ export default function Partners() {
                     <div className="mxd-partners-cards__logo">
                       <Image
                         alt="Partner Logo"
-                        src="/img/brands/behance.svg"
+                        src="/img/brands/client logos/1.png"
                         width={2499}
                         height={464}
                       />
@@ -54,7 +54,7 @@ export default function Partners() {
                     <div className="mxd-partners-cards__logo">
                       <Image
                         alt="Partner Logo"
-                        src="/img/brands/dribbble.svg"
+                        src="/img/brands/client logos/2.png"
                         width={917}
                         height={258}
                       />
@@ -67,7 +67,7 @@ export default function Partners() {
                     <div className="mxd-partners-cards__logo">
                       <Image
                         alt="Partner Logo"
-                        src="/img/brands/codeninja.svg"
+                        src="/img/brands/client logos/3.png"
                         width={223}
                         height={34}
                       />
@@ -80,7 +80,7 @@ export default function Partners() {
                     <div className="mxd-partners-cards__logo">
                       <Image
                         alt="Partner Logo"
-                        src="/img/brands/udemy.svg"
+                        src="/img/brands/client logos/4.png"
                         width={631}
                         height={237}
                       />
@@ -93,7 +93,7 @@ export default function Partners() {
                     <div className="mxd-partners-cards__logo">
                       <Image
                         alt="Partner Logo"
-                        src="/img/brands/angular.svg"
+                        src="/img/brands/client logos/5.png"
                         width={700}
                         height={169}
                       />
@@ -106,7 +106,7 @@ export default function Partners() {
                     <div className="mxd-partners-cards__logo">
                       <Image
                         alt="Partner Logo"
-                        src="/img/brands/ghostgaming.svg"
+                        src="/img/brands/client logos/6.png"
                         width={2854}
                         height={1199}
                       />
