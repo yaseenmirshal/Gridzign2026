@@ -20,7 +20,7 @@
   
  @import url("./plugins.min.css");
  @import url("./main.min.css");
- 
+
  @tailwind base;
  @tailwind components;
  @tailwind utilities;
@@ -49,6 +49,12 @@ html {
   visibility: hidden;
   opacity: 0;
 }
+.mxd-blog-preview__image {
+  height: 320px;
+}
+
+
+
 .mxd-menu__wrapper.active_menu .fade-in-elm {
   visibility: visible;
   opacity: 1;
