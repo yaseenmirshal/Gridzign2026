@@ -143,9 +143,7 @@ export default function Footer1() {
                     </svg>
                     {/* logo text */}
                     <span className="mxd-logo__text">
-                      rayo
-                      <br />
-                      template
+                    Gridzign © 2026
                     </span>
                   </a>
                 </div>
@@ -247,7 +245,7 @@ export default function Footer1() {
                 <div className="mxd-demo-footer__promo">
                   <div className="mxd-footer-promo__title anim-uni-in-up">
                     <p className="t-140 t-bright t-caption">
-                      More by ib-themes:
+                    Gridzign Subscriptions 
                     </p>
                   </div>
                   <div className="mxd-footer-promo__list">
@@ -264,7 +262,7 @@ export default function Footer1() {
                         src="/img/demo/icon-blayden.png"
                       />
                       <span className="mxd-footer-promo__link anim-uni-in-up">
-                        Resonance - Multipurpose Creative NextJs Templates
+                      Gridzign Subscriptions 
                       </span>
                     </a>
                     <a

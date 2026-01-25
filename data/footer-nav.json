@@ -8,7 +8,7 @@
     "href": "/about-us"
   },
   {
-    "label": "Works",
+    "label": "Case Studies",
     "href": "/works-simple",
     "counter": 10
   },
@@ -21,7 +21,7 @@
     "href": "/blog-standard"
   },
   {
-    "label": "Contact",
+    "label": "Connect",
     "href": "/contact"
   }
 ]

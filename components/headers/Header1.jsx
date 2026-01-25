@@ -4,6 +4,8 @@ import { useEffect, useState } from "react";
 import AnimatedButton from "../animation/AnimatedButton";
 import { usePathname } from "next/navigation";
 import ThemeSwitcherButton from "./ColorSwitcher";
+import Image from "next/image";
+
 
 export default function Header1() {
   const pathname = usePathname();
@@ -22,13 +24,13 @@ export default function Header1() {
     <header id="header" className={`mxd-header ${isHidden ? "is-hidden" : ""}`}>
       {/* header logo */}
       <div className="mxd-header__logo loading__fade">
-        <Link href={`/home-main`} className="mxd-logo">
+        <Link href={`/`} className="mxd-logo">
           {/* logo icon */}
-          {/* <Image src="/public/img/icons/gridzign logo crop.png" alt="GridZign" width={100} height={100} /> */}
+          <Image src="/public/img/icons/gridzign-logo.png" alt="GridZign" width={100} height={100} />
           {/* logo text */}
-          <span className="mxd-logo__text">
+          {/* <span className="mxd-logo__text">
             GridZign
-          </span>
+          </span> */}
         </Link>
       </div>
       {/* header controls */}
@@ -37,7 +39,7 @@ export default function Header1() {
 
         {pathname == "/" || pathname == "/preview" ? (
           <AnimatedButton
-            text="Purchase"
+            text="Ping Us"
             className="btn btn-anim btn-default btn-mobile-icon btn-outline slide-right"
             href="/"
             

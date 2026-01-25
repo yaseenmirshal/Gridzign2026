@@ -203,7 +203,7 @@ export default function Footer2() {
                 />
               </svg>
               <a href="mailto:example@example.com?subject=Message%20from%20your%20site">
-                hello@gridzign.com
+                ping@gridzign.com
               </a>
             </p>
           </div>
@@ -239,7 +239,7 @@ export default function Footer2() {
             {/* card title */}
             <div className="footer-blocks__title anim-uni-in-up">
               <p className="footer-blocks__title-m">
-                Subscribe to our insights:
+                Subscribe to our insights
               </p>
             </div>
             {/* subscribe form container */}
@@ -268,7 +268,7 @@ export default function Footer2() {
             <div className="footer-blocks__block">
               {/* card title */}
               <div className="footer-blocks__title anim-uni-in-up">
-                <p className="footer-blocks__title-l">Ecosystem</p>
+                <p className="footer-blocks__title-l">Innovate With Us</p>
               </div>
               {/* footer socials */}
               <div className="footer-blocks__socials">
@@ -290,16 +290,8 @@ export default function Footer2() {
             {/* links */}
             <div className="footer-blocks__links anim-uni-in-up">
               <p className="t-xsmall t-muted">
-                <a
-                  className="no-effect"
-                  href="https://themeforest.net/user/ib-themes/portfolio"
-                  target="_blank"
-                >
-                  ib themes
-                </a>
-                <i className="ph-bold ph-copyright" />
-                {new Date().getFullYear()}
-              </p>
+              Gridzign © 2026
+              </p> 
             </div>
           </div>
         </div>

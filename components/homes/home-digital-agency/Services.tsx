@@ -39,7 +39,7 @@ export default function Services() {
                             width={800}
                             height={400}
                           />
-                          <div className="mxd-services-stack__tags tags-absolute">
+                          {/* <div className="mxd-services-stack__tags tags-absolute">
                             {w.tags.map((t, ti) => (
                               <span
                                 key={ti}
@@ -48,8 +48,8 @@ export default function Services() {
                                 {t}
                               </span>
                             ))}
-                          </div>
-                          <div className="mxd-preview-hover">
+                          </div> */}
+                          {/* <div className="mxd-preview-hover">
                             <i className="mxd-preview-hover__icon icon-small">
                               <Image
                                 alt="Eye Icon"
@@ -58,7 +58,7 @@ export default function Services() {
                                 height={21}
                               />
                             </i>
-                          </div>
+                          </div> */}
                         </Link>
                       ))}
                     </div>

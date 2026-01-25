@@ -125,9 +125,9 @@ export default function MobileMenu() {
                 className="mxd-menu__caption fade-in-elm"
                 style={{ transitionDelay: "0.4s" }}
               >
-                🦄 Innovative design
+                Crafting Digital Experiences
                 <br />
-                and cutting-edge development
+                That Perform
               </p>
               <div className="main-menu">
                 <nav className="main-menu__content">
@@ -216,11 +216,11 @@ export default function MobileMenu() {
                     className="menu-promo__caption fade-in-elm"
                     style={{ transitionDelay: "0.4s" }}
                   >
-                    👋 New Rayo template is here!
+                    We bring concepts to life with precision, innovation, and scalability. Each project reflects our commitment to quality, usability, and business growth.
                     <br />
-                    Showcase your projects, services and expertise with impact.
+                   
                   </p>
-                  <div
+                  {/* <div
                     className="menu-promo__video fade-in-up-elm"
                     style={{ transitionDelay: "0.3s" }}
                   >
@@ -246,7 +246,7 @@ export default function MobileMenu() {
                         src="video/540x310_video-01.ogv"
                       />
                     </video>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -256,14 +256,7 @@ export default function MobileMenu() {
               style={{ transitionDelay: "0.4s" }}
             >
               <p className="t-xsmall">
-                Made with <i className="ph-fill ph-heart t-additional" /> by{" "}
-                <a
-                  className="no-effect"
-                  href="https://themeforest.net/user/ib-themes/portfolio"
-                  target="_blank"
-                >
-                  ib themes
-                </a>
+              Design. Develop. Deliver.
               </p>
               <p className="t-xsmall">
                 <i className="ph ph-copyright" />
