@@ -10,7 +10,7 @@ export default function Footer2() {
       {/* Footer Block - Fullwidth Text Start */}
       {/* <div className="mxd-footer__text-wrap">
         <div className="fullwidth-text__tl-trigger" />
-        <div className="mxd-footer__fullwidth-text anim-top-to-bottom">
+        
           {text == "gridzign" ? (
             <svg
               className="mxd-footer__svg-v2"
