@@ -11,18 +11,7 @@ export default function Footer2() {
       {/* <div className="mxd-footer__text-wrap">
         <div className="fullwidth-text__tl-trigger" />
         
-          {text == "gridzign" ? (
-            <svg
-              className="mxd-footer__svg-v2"
-              version="1.1"
-              xmlns="http://www.w3.org/2000/svg"
-              xmlnsXlink="http://www.w3.org/1999/xlink"
-              x="0px"
-              y="0px"
-              viewBox="0 0 400.26 72"
-              enableBackground="new 0 0 400.26 72"
-              xmlSpace="preserve"
-            >
+          
               <path
                 d="M4.93,56V25.93H0V16h10.13v7.73h2.8c1.11-2.67,2.82-4.69,5.13-6.07c2.31-1.38,4.96-2.07,7.93-2.07h3.33v8.53h-3.8
       c-3.65,0-6.36,1.04-8.13,3.13c-1.78,2.09-2.67,4.87-2.67,8.33V56H4.93z M46.53,56.73c-4.67,0-8.32-1.13-10.97-3.4
