@@ -26,7 +26,13 @@ export default function Header1() {
       <div className="mxd-header__logo loading__fade">
         <Link href={`/`} className="mxd-logo">
           {/* logo icon */}
-          <Image src="/public/img/icons/gridzign-logo.png" alt="GridZign" width={100} height={100} />
+          <Image
+  src="/img/icons/gridzign-logo.png"
+  alt="GridZign"
+  width={100}
+  height={100}
+  className="w-30 h-20 rounded-lg"
+/>
           {/* logo text */}
           {/* <span className="mxd-logo__text">
             GridZign
@@ -41,10 +47,10 @@ export default function Header1() {
           <AnimatedButton
             text="Ping Us"
             className="btn btn-anim btn-default btn-mobile-icon btn-outline slide-right"
-            href="/"
+            href="/Contact"
             
           >
-            <i className="ph-bold ph-shopping-cart-simple" />
+           <i className="ph-bold ph-arrow-right" />
           </AnimatedButton>
         ) : (
           <AnimatedButton

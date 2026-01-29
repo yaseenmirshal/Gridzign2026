@@ -149,8 +149,7 @@ export default function Footer1() {
                 </div>
                 <div className="mxd-demo-footer__slogan anim-uni-in-up">
                   <p className="t-small t-bright">
-                    👋 New Rayo template is here! Showcase your projects,
-                    services and expertise with impact.
+                    
                   </p>
                 </div>
                 <div className="mxd-demo-footer__btn anim-uni-in-up">

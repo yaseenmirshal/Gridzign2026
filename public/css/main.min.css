@@ -4212,6 +4212,12 @@ form textarea:required:valid {
   -ms-flex-pack: left;
   justify-content: left;
   gap: 1rem;
+ 
+}
+
+
+.bg-accent{
+
 }
 @media only screen and (min-width: 768px) {
   .mxd-logo {
@@ -5279,7 +5285,7 @@ form textarea:required:valid {
   }
 }
 .bg-accent {
-  background-color: var(--accent);
+  background-color: #6d9bdf;
 }
 .bg-additional {
   background-color: var(--additional);
@@ -19472,6 +19478,7 @@ form textarea:required:valid {
     height: 420px;
   }
 }
+
 .mxd-blog-preview__image {
   position: relative;
   width: 100%;

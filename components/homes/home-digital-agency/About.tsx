@@ -13,7 +13,7 @@ export default function About() {
               <div className="col-12 col-xl-5 mxd-grid-item no-margin">
                 <div className="mxd-block__name">
                   <RevealText as="h1" className="reveal-type anim-uni-in-up">
-                    Company
+                    Digital DNA
                   </RevealText>
                 </div>
               </div>
@@ -21,16 +21,16 @@ export default function About() {
                 <div className="mxd-block__content">
                   <div className="mxd-block__paragraph">
                     <p className="t-large t-bright anim-uni-in-up">
-                      We are a creative digital agency specializing in
-                      innovative design and cutting-edge development. We help
-                      businesses stand out and thrive in the modern landscape.
+                    Gridzign builds high-performance digital products
+                    where strategic design meets robust engineering. Our
+                    focus is on creating solutions that are visually refined,
+                    technically sound, and business-driven. 
                     </p>
                     <p className="anim-uni-in-up">
-                      From pixel-perfect designs to flawless code, every aspect
-                      of our projects is crafted with care to ensure the highest
-                      standards of quality. We are passionate about integrating
-                      the latest technologies and trends, including interactive
-                      animations and mobile-first strategies.
+                    We work with startups, enterprises, and growing brands
+                    to deliver scalable websites, applications, and
+                    platforms. Every project is approached with precision,
+                    modern technology, and long-term growth in mind.
                     </p>
                     <div className="mxd-paragraph__controls anim-uni-in-up">
                       <AnimatedButton

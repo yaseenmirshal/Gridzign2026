@@ -10,6 +10,7 @@ import Partners from "@/components/homes/home-digital-agency/Partners";
 import Services from "@/components/homes/home-digital-agency/Services";
 import { Metadata } from "next";
 import Projects from "@/components/homes/home-web-agency/Projects";
+import MarqueeSlider3 from "@/components/homes/home-web-agency/MarqueeSlider3";
 export const metadata: Metadata = {
   title:
     "GridZign",
@@ -26,7 +27,8 @@ export default function HomeDigitalAgencyPage() {
         <MarqueeSlider />
         <Facts />
         <About />
-        <Partners />
+        <MarqueeSlider3/>
+        {/* <Partners /> */}
         <Projects/>
         <Blogs />
         <Cta />

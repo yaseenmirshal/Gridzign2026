@@ -212,14 +212,17 @@ export default function MobileMenu() {
             <div className="mxd-menu__right">
               <div className="menu-promo">
                 <div className="menu-promo__content">
+
+                {/* <img style={{ borderRadius: "15px" }}  src="https://i.ibb.co/7J2SSg3j/2150010127.jpg" alt="GridZign" width={60} height={60} /> */}
                   <p
                     className="menu-promo__caption fade-in-elm"
                     style={{ transitionDelay: "0.4s" }}
                   >
                     We bring concepts to life with precision, innovation, and scalability. Each project reflects our commitment to quality, usability, and business growth.
                     <br />
-                   
+                    
                   </p>
+
                   {/* <div
                     className="menu-promo__video fade-in-up-elm"
                     style={{ transitionDelay: "0.3s" }}
@@ -259,8 +262,12 @@ export default function MobileMenu() {
               Design. Develop. Deliver.
               </p>
               <p className="t-xsmall">
+              Gridzign
                 <i className="ph ph-copyright" />
-                2025
+                2026  
+                <Link href={"https://hostimpress.com/"}>
+                Together with Hostimpress
+                </Link>
               </p>
             </div>
           </div>
